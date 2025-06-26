@@ -14,8 +14,8 @@ Install the following system tools:
 
 Clone the project repository:
 
-git clone https://github.com/your-org/hr-system.git
-cd hr-system
+git clone [https://github.com/your-org/hr-system.git](https://github.com/Jrabara101/HRIS-TechNavy.git)
+cd hris-technavy
 
 Install project dependencies:
 
